@@ -1,0 +1,57 @@
+11Jan14
+ 
+Firstname Surname PartnerPres extid id Timestamp WEStamp Snorer AllTakeCourse DriverAdvtg
+Couple Syeda Lane Jevan Norman 99049 951 x WE2 Nein Ja Ja
+Couple Jevan Norman Syeda Lane 99049 951 x WE2 Ja Ja Ja
+Couple Keanan Burns Jodie Mcclain 7982 2018 x WE2 Nein Ja Nein
+Couple Jodie Mcclain Keanan Burns 7982 2018 x WE2 Ja Ja Nein
+Couple Keiren Lamb Shelbie Person 7980 2020 x WE2 Nein Ja Nein
+Couple Shelbie Person Keiren Lamb 7980 2020 x WE2 Nein Ja Nein
+Couple Kody Moses Loki Kent 7953 2047 x WE2 Nein Ja Nein
+Couple Loki Kent Kody Moses 7953 2047 x WE2 Nein Ja Nein
+Couple Carl Obrien Franky Enriquez 7945 2055 x WE2 Nein Ja Nein
+Couple Franky Enriquez Carl Obrien 7945 2055 x WE2 Ja Ja Nein
+Couple Dottie Cunningham Macy Hinton 7928 2072 x WE2 Nein Ja Nein
+Couple Macy Hinton Dottie Cunningham 7928 2072 x WE2 Ja Ja Nein
+Couple Kristina Dillon Darrel Corona 7901 2099 x WE2 Ja Ja Nein
+Couple Darrel Corona Kristina Dillon 7901 2099 x WE2 Ja Ja Nein
+Couple Patrik Easton Jessie Benitez -2090 2090 x WE2 Nein Nein Nein
+Couple Jessie Benitez Patrik Easton -2090 2090 x WE2 Ja Nein Nein
+Female Loretta Hutchings  0 0  WE2 Nein  Ja
+Female Taran Felix  0 0  WE2 Nein  
+Female Tamera Johns  0 0  WE2 Nein  
+Female Hina O'Gallagher  0 0  WE2 Nein  
+Female Patience Garcia  0 0  WE2 Nein  
+Female Alba Dawson  0 0  WE2 Nein  
+Female Oriana Hackett  0 0  WE2 Nein  
+Female Hettie Donald  0 0  WE2 Nein  
+Female Loki Markham  0 0  WE2 Nein  
+Female Ashleigh Dillon  0 0  WE2 Nein  
+Female Clarke Mackie  0 0  WE2 Nein  
+Female Dale May  -2 -1  WE2 Ja  
+Female Zaynab Cottrell  0 0  WE2 Nein  
+Female Lilly-Grace Singleton  0 0  WE2 Ja  
+Female Isis Forrest  0 0  WE2 Ja  
+Female Isadora Battle  0 0  WE2 Ja  
+Male Kurt Field  -2 -1  WE2 Nein  
+Male Haydon Benson  -2 -1  WE2 Nein  
+Male Duane Robles  -2 -1  WE2 Ja  
+Male Kris Hudson  -2 -1  WE2 Nein  
+Male Ksawery Person  -2 -1  WE2 Nein  
+Male Samual Webb  -2 -1  WE2 Nein  
+Male Samual Webb  -2 -1  WE2 Nein  
+Male Hamid Evans  -2 -1  WE2 Nein  
+Male Amandeep Morin  -2 -1  WE2 Nein  
+Male Caio Knowles  -2 -1  WE2 Nein  
+Male Mitchel Brown  -2 -1  WE2 Nein  
+Male Kaan Rosa  -2 -1  WE2 Nein  
+Male Bayleigh Sheldon  -2 -1  WE2 Nein  
+Male Tahmid O'Reilly  -2 -1  WE2 Nein  
+Male Bilaal Mclaughlin  -2 -1  WE2 Ja  
+Male Noa Waller  -2 -1  WE2 Ja  
+Male Abdi Spears  -2 -1  WE2 Ja  
+Male Milo Shah  -2 -1  WE2 Ja  
+Male Mikaeel Sutherland  -2 -1  WE2 Ja  
+Male Tobey Rich  -2 -1  WE2 Ja  
+Couple Matylda Oconnell Pawel Irving -2021 2021 x WE2 Nein Nein Nein
+Couple Pawel Irving Matylda Oconnell -2021 2021 x WE2 Nein Nein Nein

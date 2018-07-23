@@ -1,0 +1,27 @@
+7Feb15
+
+Female Moesha Anthony  0 0  7Mar15 Ja  Ja
+Couple Amandeep Morin Hettie Donald -2045 2045 x 7Mar15 Nein Nein Nein
+Couple Hettie Donald Amandeep Morin -2045 2045 x 7Mar15 Nein Nein Nein
+Couple Andreas Bleicher Darnell Lyon 2338 2338 x 7Mar15 Nein Nein Ja
+Couple Darnell Lyon Andreas Bleicher 2338 2338 x 7Mar15 Nein Nein Ja
+Female Ellie-Louise Jenkins  0 0  7Mar15 Nein  
+Female Hattie Kirkpatrick  0 0  7Mar15 Nein  
+Female Ikrah Phan  0 0  7Mar15 Nein  
+Female Lulu Fleming  0 0  7Mar15 Nein  
+Female Emily-Jane Todd  0 0  7Mar15 Nein  
+Male Sami Maxwell  -2 -1  7Mar15 Nein  
+Male Brooklyn Tierney  -2 -1  7Mar15 Nein  
+Male Kayden Warner  -2 -1  7Mar15 Nein  
+Male Pierce Kemp  -2 -1  7Mar15 Nein  
+Male Alexi Richardson  -2 -1  7Mar15 Nein  
+Male Sheridan Marsden  -2 -1  7Mar15 Ja  
+Male Vijay Mercer  -2 -1  7Mar15 Ja  
+Male Shakeel Talley  -2 -1  7Mar15 Ja  
+Male Milo Shah  -2 -1  7Mar15 Ja  
+Couple Jacey Allan Eleri Norris -1811 1811 x 7Mar15 Nein Nein Nein
+Couple Eleri Norris Jacey Allan -1811 1811 x 7Mar15 Nein Nein Nein
+Couple Curtis Pugh Beyonce Hood -2162 2162 x 7Mar15 Nein Nein Nein
+Couple Beyonce Hood Curtis Pugh -2162 2162 x 7Mar15 Ja Nein Nein
+Couple Alishba Webster Sanjay Farley -2225 2225 x 7Mar15 Nein Nein Nein
+Couple Sanjay Farley Alishba Webster -2225 2225 x 7Mar15 Nein Nein Nein

@@ -1,0 +1,61 @@
+10Jan15
+
+Couple Payton Connelly Hilary Burke 97955 2045 x WE2 Nein Ja Ja
+Couple Hilary Burke Payton Connelly 97955 2045 x WE2 Nein Ja Ja
+Couple Tayla Pace Max Robson 97802 2198 x WE2 Nein Ja Ja
+Couple Max Robson Tayla Pace 97802 2198 x WE2 Nein Ja Ja
+Couple Corey Redmond Elis Solomon 97780 2220 x WE2 Nein Ja Ja
+Couple Elis Solomon Corey Redmond 97780 2220 x WE2 Ja Ja Ja
+Couple Ho Saunders Lily-Ann Chapman 97776 2224 x WE2 Nein Ja Ja
+Couple Lily-Ann Chapman Ho Saunders 97776 2224 x WE2 Ja Ja Ja
+Couple Naomi Mcbride Giacomo Sutherland 7740 2260 x WE2 Nein Ja Nein
+Couple Giacomo Sutherland Naomi Mcbride 7740 2260 x WE2 Ja Ja Nein
+Couple Tom Pitts Keegan Cottrell 7695 2305 x WE2 Nein Ja Nein
+Couple Keegan Cottrell Tom Pitts 7695 2305 x WE2 Nein Ja Nein
+Couple Bear Sosa Deanna Craig 2302 2302 x WE2 Nein Nein Ja
+Couple Deanna Craig Bear Sosa 2302 2302 x WE2 Ja Nein Ja
+Female Hibah Blackburn  0 0  WE2 Nein  Ja
+Female Myrtle Spooner  0 0  WE2 Nein  
+Female Marta Whyte  0 0  WE2 Nein  
+Female Ellice Finnegan  0 0  WE2 Nein  
+Female Madelaine Davison  0 0  WE2 Nein  
+Female Tilly-Mae Hart  0 0  WE2 Nein  
+Female Josie Snider  0 0  WE2 Nein  
+Female Simran Orr  0 0  WE2 Nein  
+Female Tea Wilson  0 0  WE2 Nein  
+Female Elli Swanson  0 0  WE2 Nein  
+Female Thierry Wise  0 0  WE2 Nein  
+Female Elise Hardy  0 0  WE2 Nein  
+Female Jaiden Sadler  0 0  WE2 Nein  
+Female Eboni Mustafa  0 0  WE2 Nein  
+Female Imani Alcock  0 0  WE2 Nein  
+Female Sioned Mac  0 0  WE2 Nein  
+Female Orlaith Roman  0 0  WE2 Nein  
+Female Ollie Oneill  0 0  WE2 Nein  
+Female Diya Herrera  0 0  WE2 Ja  
+Female Hafsa Hurst  0 0  WE2 Ja  
+Female Kristi Piper  0 0  WE2 Ja  
+Female Joely Mcmillan  0 0  WE2 Ja  
+Male Juliet Ayala  -2 -1  WE2 Nein  
+Male Mustafa Whitehouse  -2 -1  WE2 Nein  
+Male Vikram Ware  -2 -1  WE2 Nein  
+Male Greg Blackwell  -2 -1  WE2 Nein  
+Male Zach Dominguez  -2 -1  WE2 Nein  
+Male Simran Cope  -2 -1  WE2 Nein  
+Male Finnley Hooper  -2 -1  WE2 Nein  
+Male Eamonn Meyers  -2 -1  WE2 Nein  
+Male Brook Maddox  -2 -1  WE2 Nein  
+Male Sanjeev Potts  -2 -1  WE2 Nein  
+Male Jude Foreman  -2 -1  WE2 Nein  
+Male Ralph Moon  -2 -1  WE2 Nein  
+Male Geoffrey Tait  -2 -1  WE2 Nein  
+Male Theon Pitts  -2 -1  WE2 Nein  
+Male Darius Andrew  -2 -1  WE2 Nein  
+Male Harold Tyler  -2 -1  WE2 Nein  
+Male Sion Acevedo  -2 -1  WE2 Ja  
+Male Dev Beil  -2 -1  WE2 Ja  
+Male Igor Reese  -2 -1  WE2 Ja  
+Male Emil Petty  -2 -1  WE2 Ja  
+Male Kaelan Salgado  -2 -1  WE2 Ja  
+Couple Ronan Ellis Haya Owens -2162 2162 x WE2 Nein Nein Nein
+Couple Haya Owens Ronan Ellis -2162 2162 x WE2 Ja Nein Nein

@@ -1,0 +1,30 @@
+1Feb14
+
+Couple Mahir Osborn Veronica Hughes 98005 1995 x WE5 Nein Ja Ja
+Couple Veronica Hughes Mahir Osborn 98005 1995 x WE5 Nein Ja Ja
+Couple Abdul Dougherty Tessa Cochran 8013 1987 x WE5 Ja Ja Nein
+Couple Tessa Cochran Abdul Dougherty 8013 1987 x WE5 Ja Ja Nein
+Couple Kendall Gallagher Mikolaj Davis 7971 2029 x WE5 Nein Ja Nein
+Couple Mikolaj Davis Kendall Gallagher 7971 2029 x WE5 Ja Ja Nein
+Couple Ellisha Watkins Luna Braun 2133 2133 x WE5 Nein Nein Ja
+Couple Luna Braun Ellisha Watkins 2133 2133 x WE5 Nein Nein Ja
+Couple Raheel Rowe Martina Hendrix 1824 1824 x WE5 Nein Nein Ja
+Couple Martina Hendrix Raheel Rowe 1824 1824 x WE5 Nein Nein Ja
+Female Rudra Berg  0 0  WE5 Nein  Ja
+Female Aysha Roy  0 0  WE5 Nein  
+Female Patience Garcia  0 0  WE5 Nein  
+Female Emily-Jane Todd  0 0  WE5 Nein  
+Female Loki Markham  0 0  WE5 Nein  
+Female Elliot Gardner  0 0  WE5 Nein  
+Female Bronwen Coulson  0 0  WE5 Nein  
+Female Cherie Lyons  0 0  WE5 Ja  
+Male Konrad Webber  -2 -1  WE5 Nein  
+Male Jaidan Small  -2 -1  WE5 Nein  
+Male Amandeep Morin  -2 -1  WE5 Nein  
+Male Colin Watt  -2 -1  WE5 Nein  
+Male Lilith Higgs  -2 -1  WE5 Nein  
+Male Rahim Lyon  -2 -1  WE5 Nein  
+Male Bree Partridge  -2 -1  WE5 Ja  
+Male Jean Gates  -2 -1  WE5 Ja  
+Male Corben Hailo  -2 -1  WE5 Ja  
+Male Usman Rocha  -2 -1  WE5 Ja  

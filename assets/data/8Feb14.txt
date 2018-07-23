@@ -1,0 +1,35 @@
+8Feb14
+
+Couple Helin Zimmerman Armando Borgia 2017 2017 x 8Feb14 Nein Nein Ja
+Couple Armando Borgia Helin Zimmerman 2017 2017 x 8Feb14 Nein Nein Ja
+Couple Brooklyn Tierney Martina Hendrix 1824 1824 x 8Feb14 Nein Nein Ja
+Couple Martina Hendrix Brooklyn Tierney 1824 1824 x 8Feb14 Nein Nein Ja
+Female Bronwen Coulson  0 0  8Feb14 Nein  
+Female Aysha Roy  0 0  8Feb14 Nein  
+Female Hettie Donald  0 0  8Feb14 Nein  
+Female Amaya Blake  0 0  8Feb14 Nein  
+Female Loki Markham  0 0  8Feb14 Nein  
+Female Oriana Hackett  0 0  8Feb14 Nein  
+Female Abel Grey  0 0  8Feb14 Nein  
+Female Dale May  0 0  8Feb14 Ja  
+Male Teegan Connor  -2 -1  8Feb14 Nein  
+Male Arif Wicks  -2 -1  8Feb14 Nein  
+Male Rahim Lyon  -2 -1  8Feb14 Nein  
+Male Kayden Warner  -2 -1  8Feb14 Nein  
+Male Jeremiah Robin  -2 -1  8Feb14 Nein  
+Male Abel Grey  -2 -1  8Feb14 Nein  
+Male Arsalan Bryan  -2 -1  8Feb14 Ja  
+Male Conna Harding  -2 -1  8Feb14 Ja  
+Male Alexi Richardson  -2 -1  8Feb14 Ja  
+Male Jean Gates  -2 -1  8Feb14 Ja  
+Male Amit Tyagi  -2 -1  8Feb14 Ja  
+Male Lacy Holmes  -2 -1  8Feb14 Ja  
+Male Bree Partridge  -2 -1  8Feb14 Ja  
+Couple Keanan Burns Jodie Mcclain -2018 2018 x 8Feb14 Nein Nein Nein
+Couple Jodie Mcclain Keanan Burns -2018 2018 x 8Feb14 Ja Nein Nein
+Couple Alister Cornish Andre Christian -2079 2079 x 8Feb14 Nein Nein Nein
+Couple Andre Christian Alister Cornish -2079 2079 x 8Feb14 Ja Nein Nein
+Couple Shelby Gregory Jessie Benitez -2090 2090 x 8Feb14 Nein Nein Nein
+Couple Jessie Benitez Shelby Gregory -2090 2090 x 8Feb14 Ja Nein Nein
+Couple Maxime Drake Kristina Dillon -2099 2099 x 8Feb14 Ja Nein Nein
+Couple Kristina Dillon Maxime Drake -2099 2099 x 8Feb14 Ja Nein Nein

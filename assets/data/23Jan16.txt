@@ -1,0 +1,64 @@
+23Jan16
+
+Female Ebonie Pope  -1 0 0  WE4 Nein
+Female Nancy Childs  -1 0 0  WE4 Nein
+Female Esmai Barrow  -1 0 0  WE4 Nein
+Couple Ravinder Golden Jevan Norman 0 99049 951 x WE4 Nein
+Couple Jevan Norman Ravinder Golden 0 99049 951 x WE4 Ja
+Couple Poppy Delacruz Giacomo Sutherland 0 97740 2260 x WE4 Nein
+Couple Giacomo Sutherland Poppy Delacruz 0 97740 2260 x WE4 Ja
+Couple Devin Ochoa Jai Lester 0 97533 2467 x WE4 Nein
+Couple Jai Lester Devin Ochoa 0 97533 2467 x WE4 Ja
+Couple Fionn Ibarra Juanita Donald 0 7610 2390 x WE4 Nein
+Couple Juanita Donald Fionn Ibarra Leng 0 7610 2390 x WE4 Nein
+Couple Adriana Wickens Artur Sandoval 0 7581 2419 x WE4 Nein
+Couple Artur Sandoval Adriana Wickens 0 7581 2419 x WE4 Nein
+Couple Ambrish Saxena Sukhmani Franklin 0 7565 2435 x WE4 Nein
+Couple Sukhmani Franklin Ambrish Saxena 0 7565 2435 x WE4 Nein
+Couple Malika Michael Lee mills 0 7525 2475 x WE4 Nein
+Couple Lee Mills Malika Michael 0 7525 2475 x WE4 Nein
+Couple Kaylen Delgado Shazia Brady 0 7495 2505 x WE4 Nein
+Couple Shazia Brady Kaylen Delgado 0 7495 2505 x WE4 Nein
+Female Rian Bowler  0 0 0  WE4 Nein
+Female Nico Henry  0 0 0  WE4 Nein
+Female Mahek Cresswell  0 0 0  WE4 Nein
+Female Nevaeh Blundell  0 0 0  WE4 Nein
+Female Aya Garner  0 0 0  WE4 Nein
+Female Eesha Cote  0 0 0  WE4 Nein
+Female Bailey Doherty  0 0 0  WE4 Nein
+Female Beckie Cole  0 0 0  WE4 Nein
+Female Carmel O'Quinn  0 0 0  WE4 Nein
+Female Myra Buckner  0 0 0  WE4 Nein
+Female Lennon Lim  0 0 0  WE4 Nein
+Female Malaikah Randall  0 0 0  WE4 Nein
+Female Jayden-James Wheeler  0 0 0  WE4 Nein
+Female Addie Wilks  0 0 0  WE4 Nein
+Female Caitlyn Morales  0 0 0  WE4 Nein
+Female Layla-Mae Vinson  0 0 0  WE4 Nein
+Female April Blackburn  0 0 0  WE4 Ja
+Female Kiya Partridge  0 0 0  WE4 Ja
+Male Tyson Yoder  0 -2 -1  WE4 Nein
+Male Katerina Cisneros  0 -2 -1  WE4 Nein
+Male Rowan Garrison  0 -2 -1  WE4 Nein
+Male James Morrow  0 -2 -1  WE4 Nein
+Male Rajan Alford  0 -2 -1  WE4 Nein
+Male Krystian Moss  0 -2 -1  WE4 Nein
+Male Nataniel Holder  0 -2 -1  WE4 Nein
+Male Cairon Figueroa  0 -2 -1  WE4 Nein
+Male Seren Whelan  0 -2 -1  WE4 Nein
+Male Kenzo Velazquez  0 -2 -1  WE4 Nein
+Male Amani Phillips  0 -2 -1  WE4 Nein
+Male Patrick Knight  0 -2 -1  WE4 Nein
+Male Conna Harding  0 -2 -1  WE4 Nein
+Male Mateo Daly  0 -2 -1  WE4 Nein
+Male Abul Leon  0 -2 -1  WE4 Nein
+Male Darren Horn  0 -2 -1  WE4 Nein
+Male Arsalan Bryan  0 -2 -1  WE4 Nein
+Male Theon Pitts  0 -2 -1  WE4 Nein
+Male Ollie Whittle  0 -2 -1  WE4 Nein
+Male Tahmid O'Reilly  0 -2 -1  WE4 Nein
+Male James Leonard  0 -2 -1  WE4 Ja
+Male Drake Webster  0 -2 -1  WE4 Ja
+Male Yassin Weeks  0 -2 -1  WE4 Ja
+Couple Kerrie Hyde Kamal Kirkland 0 -2549 2549 x WE4 Nein
+Couple Kamal Kirkland Kerrie Hyde 0 -2549 2549 x WE4 Nein

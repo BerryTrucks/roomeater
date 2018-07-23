@@ -1,0 +1,57 @@
+16Jan16
+
+Female Frankie Lowry  -1 0 0  WE3 Nein  Ja
+Female Isma Chavez  -1 0 0  WE3 Nein  Ja
+Couple Ravinder Golden Jevan Norman 0 99049 951 x WE3 Nein Ja Ja
+Couple Jevan Norman Ravinder Golden 0 99049 951 x WE3 Ja Ja Ja
+Couple Daniyal Ramsey Nihal Delaney 0 98794 1206 x WE3 Nein Ja Ja
+Couple Nihal Delaney Daniyal Ramsey 0 98794 1206 x WE3 Nein Ja Ja
+Couple Zac Melendez Mira Burch 0 7590 2410 x WE3 Nein Ja Nein
+Couple Mira Burch Zac Melendez 0 7590 2410 x WE3 Nein Ja Nein
+Couple Artur Sandoval Adriana Wickens 0 7581 2419 x WE3 Nein Ja Nein
+Couple Adriana Wickens Artur Sandoval 0 7581 2419 x WE3 Nein Ja Nein
+Female Rian Bowler  0 0 0  WE3 Nein  
+Female Malaikah Randall  0 0 0  WE3 Nein  
+Female Ruby-Rose Mccall  0 0 0  WE3 Nein  
+Female Henley Calderon  0 0 0  WE3 Nein  
+Female Madelyn Macfarlane  0 0 0  WE3 Nein  
+Female Ajwa Marriott  0 0 0  WE3 Nein  
+Female Remi Philip  0 0 0  WE3 Nein  
+Female Mahek Cresswell  0 0 0  WE3 Nein  
+Female Elodie Mccray  0 0 0  WE3 Nein  
+Female Kerrie Hyde  0 0 0  WE3 Nein  
+Female Addie Wilks  0 0 0  WE3 Nein  
+Female Nala Leon  0 0 0  WE3 Nein  
+Female Asha Valentine  0 0 0  WE3 Nein  
+Female Chyna Ashley  0 0 0  WE3 Nein  
+Female Miley Gill  0 0 0  WE3 Nein  
+Female Zahraa Galloway  0 0 0  WE3 Nein  
+Female Lennon Lim  0 0 0  WE3 Nein  
+Female Layla-Mae Vinson  0 0 0  WE3 Nein  
+Female Abbey Johnston  0 0 0  WE3 Nein  
+Female Eira Gallegos  0 0 0  WE3 Nein  
+Female April Blackburn  0 0 0  WE3 Ja  
+Female April Blackburn  0 0 0  WE3 Ja  
+Male Mustafa Whitehouse  0 -2 -1  WE3 Nein  
+Male Rikesh Carney  0 -2 -1  WE3 Nein  
+Male Eathan Cervantes  0 -2 -1  WE3 Nein  
+Male Anton Mejia  0 -2 -1  WE3 Nein  
+Male Cali Anthony  0 -2 -1  WE3 Nein  
+Male Ishaq Dunkley  0 -2 -1  WE3 Nein  
+Male Yasser Blaese  0 -2 -1  WE3 Nein  
+Male Muneeb Franklin  0 -2 -1  WE3 Nein  
+Male Kingsley Barajas  0 -2 -1  WE3 Nein  
+Male Tiegan Pace  0 -2 -1  WE3 Nein  
+Male Ray Terrell  0 -2 -1  WE3 Nein  
+Male Jaiden Arias  0 -2 -1  WE3 Nein  
+Male Cai Short  0 -2 -1  WE3 Nein  
+Male Lance Mcclain  0 -2 -1  WE3 Nein  
+Male Jayden-James Wheeler  0 -2 -1  WE3 Nein  
+Male Ollie Whittle  0 -2 -1  WE3 Nein  
+Male Mateo Daly  0 -2 -1  WE3 Nein  
+Male Leslie Santos  0 -2 -1  WE3 Nein  
+Male Ryan Mcintyre  0 -2 -1  WE3 Nein  
+Male James Leonard  0 -2 -1  WE3 Ja  
+Male Drake Webster  0 -2 -1  WE3 Ja  
+Male Yassin Weeks  0 -2 -1  WE3 Ja  
+Male Ishaan Coombes  0 -2 -1  WE3 Ja  
